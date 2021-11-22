@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="imagini"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-14">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Diana/Desktop/BD/Incercare.zip_expanded/Incercare/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diana/Desktop/BD/Incercare.zip_expanded/Incercare/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diana/Desktop/BD/Incercare.zip_expanded/Incercare/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diana/Desktop/BD/Incercare.zip_expanded/Incercare/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diana/Desktop/BD_proiect/Incercare/mysql-connector-java-8.0.22.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
